@@ -1,3 +1,4 @@
+#this sets up rclone without installing it via package management
 RCLONEDIR=$(pwd)/rclone
 mkdir rclone
 cd rclone
